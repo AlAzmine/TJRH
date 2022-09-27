@@ -1,2 +1,3 @@
 # TJRH
-Trader Joe's Recipe Hub is a 
+Trader Joe's Recipe Hub
+
